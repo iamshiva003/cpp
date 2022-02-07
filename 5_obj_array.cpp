@@ -15,8 +15,8 @@ public:
 
 void Student::getdata()
 {
-    cout<<endl;
-    cout<<"---- Enter the details of the students ----"<<endl;
+    cout << endl;
+    cout << "---- Enter the details of the students ----" << endl;
     cout << "Enter Name: ";
     cin >> name;
     cout << "Enter Rollno: ";
