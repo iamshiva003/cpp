@@ -83,7 +83,7 @@ int main()
     cout << "The elements of the matrix 2 are: " << endl;
     m2.display();
 
-    operator *(m1, m2);
+    operator*(m1, m2);
 
     return 0;
 }
