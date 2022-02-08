@@ -8,3 +8,11 @@ a.out
 10_matrixmul_ope.exe
 11_overload_arithmetic.exe
 12_stack.exe
+13_constructor_override.exe
+14_sort_templates.exe
+15_class_template.exe
+16_default_parameter_const.exe
+17_copy_constructor.exe
+18_func_overload.exe
+19_stringcomp.exe
+20_virtual_func.exe
