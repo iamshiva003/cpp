@@ -36,7 +36,7 @@ public:
 
     void operator +(MatrixAdd m)
     {
-        if((row != m.row) && (col != m.col))
+        if((row != m.row) || (col != m.col))
         {
             cout<<"Addition is not possible"<<endl;
             return;
